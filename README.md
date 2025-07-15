@@ -11,4 +11,4 @@ The missing files are, notably, the training, validation and test sets, the mode
 We aim at including in this repository an analysis based on publicly-available dataset to increase transparency.
 
 A summary of the proposed pipeline is presented in the following:
-![img](https://github.com/ilariavascotto/Reliability_Unbalanced/img/flow_notes.png)
+![pipeline](https://github.com/ilariavascotto/Reliability_Unbalanced/blob/main/img/flow_notes.png)
