@@ -6,7 +6,7 @@ The preprint of the paper can be found at this [link](https://arxiv.org/abs/2507
 
 As specified in the paper, the data and the model are proprietary therefore some of the information cannot be shared publicly. We have added to this repository the files and the script used to prepare the figures which are present in the paper and two scritps which were used to retrive the feature importance, compute the ensemble aggregation and stored the robustness scores, as well as the distance needed for the consistency computation. 
 
-The missing files are, notably, the training, validation and test sets, the model definition and model weights. 
+The missing files are, notably, the training, validation and test sets, the model definition and model weights. Due to space requirements, also the robustness and attributions files cannot be uploaded on Github directly.
 
 We aim at including in this repository an analysis based on publicly-available dataset to increase transparency.
 
